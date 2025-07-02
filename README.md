@@ -15,5 +15,6 @@ This is my first project using **Next.js** for the frontend! I'm building this t
 *   **Real-time:** WebSockets
 
 *(More details will be added as the project progresses)*
+Dicontinued from here
 
 ### Created logo for my chat app.
